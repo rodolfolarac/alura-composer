@@ -1,0 +1,16 @@
+{
+    "name": "rodolfolara/alura-composer",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Rodolfolara\\AluraComposer\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Rodolfo Lara",
+            "email": "rodolfo.lara@frncubo.com"
+        }
+    ],
+    "require": {}
+}
